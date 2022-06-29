@@ -1,1 +1,1 @@
-# halloween-website
+# Halloween Website
